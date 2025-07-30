@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.cfg
-setup.py
-ColorPrinter.egg-info/PKG-INFO
-ColorPrinter.egg-info/SOURCES.txt
-ColorPrinter.egg-info/dependency_links.txt
-ColorPrinter.egg-info/entry_points.txt
-ColorPrinter.egg-info/top_level.txt
