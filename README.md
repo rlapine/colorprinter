@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/print_pop_transparent_logo.png" alt="PrintPop logo" width="400"/>
+  <img src="assets/print_pop_logo.png" alt="PrintPop logo" width="400"/>
 </p>
 
 ---
