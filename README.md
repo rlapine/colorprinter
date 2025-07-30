@@ -325,7 +325,7 @@ print_strikethrough()
 
 ## 🔧 Built-in demo:
 
-python printpop.py
+`python printpop.py`
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/color_samples.png" alt="console output" width="800"/>
