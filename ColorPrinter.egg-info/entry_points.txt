@@ -1,0 +1,2 @@
+[console_scripts]
+colorprinter = colorprinter.colorprinter:main
