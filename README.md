@@ -27,7 +27,7 @@ Designed to work across platforms (Windows, macOS, Linux), and built for develop
 
 ## 📦 Installation
 
-pip install printpop
+`pip install printpop`
 
 ---
 
@@ -59,7 +59,7 @@ pip install printpop
 - `print_strikethrough(text_to_print: str)`: Prints strikethrough. 
 - `print_rgb(text_to_print: str, r: int, g: int, b: int)`: Prints text in rgb color. 
 - `print_color(text_to_print: str, color: str, background: bool)`: Prints background in color if backround is True.
-- `print_formatted(text_to_print: str, bold: bool,
+- ```print_formatted(text_to_print: str, bold: bool,
     dim: bool,
     italic: bool,
     underline: bool,
@@ -68,7 +68,7 @@ pip install printpop
     hidden: bool,
     strikethrough: bool,
     color: str,
-    back_color: str)`: Prints with formats and colors.
+    back_color: str)```: Prints with formats and colors.
 
 ---
 
@@ -123,9 +123,6 @@ print_formatted("This text is bold, underlined, red with yellow background and i
 printpop includes wrapper functions for over 140 HTML name safe colors
 
 ```
-print_red()
-print_blue()
-print_green()
 print_aliceblue()
 print_antiquewhite()
 print_aqua()
