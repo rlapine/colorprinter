@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PrintPop"
-version = "0.1.0"
+version = "0.1.2"
 description = "Styled console printing made simple — color, format, and clarity in one package."
 readme = "README.md"
 authors = [{ name="Ryan LaPine", email="github.stunt845@passinbox.com" }]
