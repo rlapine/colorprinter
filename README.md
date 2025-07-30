@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/printpop/main/assets/print_pop_logo.png" alt="PrintPop logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/print_pop_logo_2.png" alt="PrintPop logo" width="400"/>
 </p>
 
 ---
@@ -44,183 +44,183 @@ pip install printpop
 <table>
 <tbody>
 <tr>
-<td><img src="assets/aliceblue.png" alt="aliceblue"></td><td>aliceblue</td>
-<td><img src="assets/antiquewhite.png" alt="antiquewhite"></td><td>antiquewhite</td>
-<td><img src="assets/aqua.png" alt="aqua"></td><td>aqua</td>
-<td><img src="assets/aquamarine.png" alt="aquamarine"></td><td>aquamarine</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/aliceblue.png" alt="aliceblue"></td><td>aliceblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/antiquewhite.png" alt="antiquewhite"></td><td>antiquewhite</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/aqua.png" alt="aqua"></td><td>aqua</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/aquamarine.png" alt="aquamarine"></td><td>aquamarine</td>
 </tr>
-<td><img src="assets/azure.png" alt="azure"></td><td>azure</td>
-<td><img src="assets/bisque.png" alt="bisque"></td><td>bisque</td>
-<td><img src="assets/blanchedalmond.png" alt="blanchedalmond"></td><td>blanchedalmond</td>
-<td><img src="assets/blue.png" alt="blue"></td><td>blue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/azure.png" alt="azure"></td><td>azure</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/bisque.png" alt="bisque"></td><td>bisque</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/blanchedalmond.png" alt="blanchedalmond"></td><td>blanchedalmond</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/blue.png" alt="blue"></td><td>blue</td>
 </tr>
-<td><img src="assets/blueviolet.png" alt="blueviolet"></td><td>blueviolet</td>
-<td><img src="assets/brown.png" alt="brown"></td><td>brown</td>
-<td><img src="assets/burlywood.png" alt="burlywood"></td><td>burlywood</td>
-<td><img src="assets/cadetblue.png" alt="cadetblue"></td><td>cadetblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/blueviolet.png" alt="blueviolet"></td><td>blueviolet</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/brown.png" alt="brown"></td><td>brown</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/burlywood.png" alt="burlywood"></td><td>burlywood</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/cadetblue.png" alt="cadetblue"></td><td>cadetblue</td>
 </tr>
-<td><img src="assets/chartreuse.png" alt="chartreuse"></td><td>chartreuse</td>
-<td><img src="assets/chocolate.png" alt="chocolate"></td><td>chocolate</td>
-<td><img src="assets/coral.png" alt="coral"></td><td>coral</td>
-<td><img src="assets/cornflowerblue.png" alt="cornflowerblue"></td><td>cornflowerblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/chartreuse.png" alt="chartreuse"></td><td>chartreuse</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/chocolate.png" alt="chocolate"></td><td>chocolate</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/coral.png" alt="coral"></td><td>coral</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/cornflowerblue.png" alt="cornflowerblue"></td><td>cornflowerblue</td>
 </tr>
-<td><img src="assets/cornsilk.png" alt="cornsilk"></td><td>cornsilk</td>
-<td><img src="assets/crimson.png" alt="crimson"></td><td>crimson</td>
-<td><img src="assets/cyan.png" alt="cyan"></td><td>cyan</td>
-<td><img src="assets/darkblue.png" alt="darkblue"></td><td>darkblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/cornsilk.png" alt="cornsilk"></td><td>cornsilk</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/crimson.png" alt="crimson"></td><td>crimson</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/cyan.png" alt="cyan"></td><td>cyan</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkblue.png" alt="darkblue"></td><td>darkblue</td>
 </tr>
-<td><img src="assets/darkcyan.png" alt="darkcyan"></td><td>darkcyan</td>
-<td><img src="assets/darkgray.png" alt="darkgray"></td><td>darkgray</td>
-<td><img src="assets/darkgreen.png" alt="darkgreen"></td><td>darkgreen</td>
-<td><img src="assets/darkgrey.png" alt="darkgrey"></td><td>darkgrey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkcyan.png" alt="darkcyan"></td><td>darkcyan</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkgray.png" alt="darkgray"></td><td>darkgray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkgreen.png" alt="darkgreen"></td><td>darkgreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkgrey.png" alt="darkgrey"></td><td>darkgrey</td>
 </tr>
-<td><img src="assets/darkkhaki.png" alt="darkkhaki"></td><td>darkkhaki</td>
-<td><img src="assets/darkmagenta.png" alt="darkmagenta"></td><td>darkmagenta</td>
-<td><img src="assets/darkolivegreen.png" alt="darkolivegreen"></td><td>darkolivegreen</td>
-<td><img src="assets/darkorange.png" alt="darkorange"></td><td>darkorange</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkkhaki.png" alt="darkkhaki"></td><td>darkkhaki</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkmagenta.png" alt="darkmagenta"></td><td>darkmagenta</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkolivegreen.png" alt="darkolivegreen"></td><td>darkolivegreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkorange.png" alt="darkorange"></td><td>darkorange</td>
 </tr>
-<td><img src="assets/darkorchid.png" alt="darkorchid"></td><td>darkorchid</td>
-<td><img src="assets/darkred.png" alt="darkred"></td><td>darkred</td>
-<td><img src="assets/darksalmon.png" alt="darksalmon"></td><td>darksalmon</td>
-<td><img src="assets/darkseagreen.png" alt="darkseagreen"></td><td>darkseagreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkorchid.png" alt="darkorchid"></td><td>darkorchid</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkred.png" alt="darkred"></td><td>darkred</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darksalmon.png" alt="darksalmon"></td><td>darksalmon</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkseagreen.png" alt="darkseagreen"></td><td>darkseagreen</td>
 </tr>
-<td><img src="assets/darkslateblue.png" alt="darkslateblue"></td><td>darkslateblue</td>
-<td><img src="assets/darkslategray.png" alt="darkslategray"></td><td>darkslategray</td>
-<td><img src="assets/darkslategrey.png" alt="darkslategrey"></td><td>darkslategrey</td>
-<td><img src="assets/darkturquoise.png" alt="darkturquoise"></td><td>darkturquoise</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkslateblue.png" alt="darkslateblue"></td><td>darkslateblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkslategray.png" alt="darkslategray"></td><td>darkslategray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkslategrey.png" alt="darkslategrey"></td><td>darkslategrey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkturquoise.png" alt="darkturquoise"></td><td>darkturquoise</td>
 </tr>
-<td><img src="assets/darkviolet.png" alt="darkviolet"></td><td>darkviolet</td>
-<td><img src="assets/deeppink.png" alt="deeppink"></td><td>deeppink</td>
-<td><img src="assets/deepskyblue.png" alt="deepskyblue"></td><td>deepskyblue</td>
-<td><img src="assets/dimgray.png" alt="dimgray"></td><td>dimgray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/darkviolet.png" alt="darkviolet"></td><td>darkviolet</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/deeppink.png" alt="deeppink"></td><td>deeppink</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/deepskyblue.png" alt="deepskyblue"></td><td>deepskyblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/dimgray.png" alt="dimgray"></td><td>dimgray</td>
 </tr>
-<td><img src="assets/dimgrey.png" alt="dimgrey"></td><td>dimgrey</td>
-<td><img src="assets/dodgerblue.png" alt="dodgerblue"></td><td>dodgerblue</td>
-<td><img src="assets/firebrick.png" alt="firebrick"></td><td>firebrick</td>
-<td><img src="assets/floralwhite.png" alt="floralwhite"></td><td>floralwhite</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/dimgrey.png" alt="dimgrey"></td><td>dimgrey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/dodgerblue.png" alt="dodgerblue"></td><td>dodgerblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/firebrick.png" alt="firebrick"></td><td>firebrick</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/floralwhite.png" alt="floralwhite"></td><td>floralwhite</td>
 </tr>
-<td><img src="assets/forestgreen.png" alt="forestgreen"></td><td>forestgreen</td>
-<td><img src="assets/fuchsia.png" alt="fuchsia"></td><td>fuchsia</td>
-<td><img src="assets/gainsboro.png" alt="gainsboro"></td><td>gainsboro</td>
-<td><img src="assets/ghostwhite.png" alt="ghostwhite"></td><td>ghostwhite</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/forestgreen.png" alt="forestgreen"></td><td>forestgreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/fuchsia.png" alt="fuchsia"></td><td>fuchsia</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/gainsboro.png" alt="gainsboro"></td><td>gainsboro</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/ghostwhite.png" alt="ghostwhite"></td><td>ghostwhite</td>
 </tr>
-<td><img src="assets/gold.png" alt="gold"></td><td>gold</td>
-<td><img src="assets/gray.png" alt="gray"></td><td>gray</td>
-<td><img src="assets/green.png" alt="green"></td><td>green</td>
-<td><img src="assets/greenyellow.png" alt="greenyellow"></td><td>greenyellow</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/gold.png" alt="gold"></td><td>gold</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/gray.png" alt="gray"></td><td>gray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/green.png" alt="green"></td><td>green</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/greenyellow.png" alt="greenyellow"></td><td>greenyellow</td>
 </tr>
-<td><img src="assets/grey.png" alt="grey"></td><td>grey</td>
-<td><img src="assets/honeydew.png" alt="honeydew"></td><td>honeydew</td>
-<td><img src="assets/hotpink.png" alt="hotpink"></td><td>hotpink</td>
-<td><img src="assets/indianred.png" alt="indianred"></td><td>indianred</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/grey.png" alt="grey"></td><td>grey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/honeydew.png" alt="honeydew"></td><td>honeydew</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/hotpink.png" alt="hotpink"></td><td>hotpink</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/indianred.png" alt="indianred"></td><td>indianred</td>
 </tr>
-<td><img src="assets/indigo.png" alt="indigo"></td><td>indigo</td>
-<td><img src="assets/ivory.png" alt="ivory"></td><td>ivory</td>
-<td><img src="assets/khaki.png" alt="khaki"></td><td>khaki</td>
-<td><img src="assets/lavender.png" alt="lavender"></td><td>lavender</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/indigo.png" alt="indigo"></td><td>indigo</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/ivory.png" alt="ivory"></td><td>ivory</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/khaki.png" alt="khaki"></td><td>khaki</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lavender.png" alt="lavender"></td><td>lavender</td>
 </tr>
-<td><img src="assets/lavenderblush.png" alt="lavenderblush"></td><td>lavenderblush</td>
-<td><img src="assets/lawngreen.png" alt="lawngreen"></td><td>lawngreen</td>
-<td><img src="assets/lemonchiffon.png" alt="lemonchiffon"></td><td>lemonchiffon</td>
-<td><img src="assets/lightblue.png" alt="lightblue"></td><td>lightblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lavenderblush.png" alt="lavenderblush"></td><td>lavenderblush</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lawngreen.png" alt="lawngreen"></td><td>lawngreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lemonchiffon.png" alt="lemonchiffon"></td><td>lemonchiffon</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightblue.png" alt="lightblue"></td><td>lightblue</td>
 </tr>
-<td><img src="assets/lightcoral.png" alt="lightcoral"></td><td>lightcoral</td>
-<td><img src="assets/lightcyan.png" alt="lightcyan"></td><td>lightcyan</td>
-<td><img src="assets/lightgoldenrodyellow.png" alt="lightgoldenrodyellow"></td><td>lightgoldenrodyellow</td>
-<td><img src="assets/lightgray.png" alt="lightgray"></td><td>lightgray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightcoral.png" alt="lightcoral"></td><td>lightcoral</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightcyan.png" alt="lightcyan"></td><td>lightcyan</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightgoldenrodyellow.png" alt="lightgoldenrodyellow"></td><td>lightgoldenrodyellow</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightgray.png" alt="lightgray"></td><td>lightgray</td>
 </tr>
-<td><img src="assets/lightgreen.png" alt="lightgreen"></td><td>lightgreen</td>
-<td><img src="assets/lightgrey.png" alt="lightgrey"></td><td>lightgrey</td>
-<td><img src="assets/lightpink.png" alt="lightpink"></td><td>lightpink</td>
-<td><img src="assets/lightsalmon.png" alt="lightsalmon"></td><td>lightsalmon</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightgreen.png" alt="lightgreen"></td><td>lightgreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightgrey.png" alt="lightgrey"></td><td>lightgrey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightpink.png" alt="lightpink"></td><td>lightpink</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightsalmon.png" alt="lightsalmon"></td><td>lightsalmon</td>
 </tr>
-<td><img src="assets/lightseagreen.png" alt="lightseagreen"></td><td>lightseagreen</td>
-<td><img src="assets/lightskyblue.png" alt="lightskyblue"></td><td>lightskyblue</td>
-<td><img src="assets/lightslategray.png" alt="lightslategray"></td><td>lightslategray</td>
-<td><img src="assets/lightslategrey.png" alt="lightslategrey"></td><td>lightslategrey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightseagreen.png" alt="lightseagreen"></td><td>lightseagreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightskyblue.png" alt="lightskyblue"></td><td>lightskyblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightslategray.png" alt="lightslategray"></td><td>lightslategray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightslategrey.png" alt="lightslategrey"></td><td>lightslategrey</td>
 </tr>
-<td><img src="assets/lightsteelblue.png" alt="lightsteelblue"></td><td>lightsteelblue</td>
-<td><img src="assets/lightyellow.png" alt="lightyellow"></td><td>lightyellow</td>
-<td><img src="assets/lime.png" alt="lime"></td><td>lime</td>
-<td><img src="assets/limegreen.png" alt="limegreen"></td><td>limegreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightsteelblue.png" alt="lightsteelblue"></td><td>lightsteelblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lightyellow.png" alt="lightyellow"></td><td>lightyellow</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/lime.png" alt="lime"></td><td>lime</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/limegreen.png" alt="limegreen"></td><td>limegreen</td>
 </tr>
-<td><img src="assets/linen.png" alt="linen"></td><td>linen</td>
-<td><img src="assets/magenta.png" alt="magenta"></td><td>magenta</td>
-<td><img src="assets/mediumaquamarine.png" alt="mediumaquamarine"></td><td>mediumaquamarine</td>
-<td><img src="assets/mediumblue.png" alt="mediumblue"></td><td>mediumblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/linen.png" alt="linen"></td><td>linen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/magenta.png" alt="magenta"></td><td>magenta</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumaquamarine.png" alt="mediumaquamarine"></td><td>mediumaquamarine</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumblue.png" alt="mediumblue"></td><td>mediumblue</td>
 </tr>
-<td><img src="assets/mediumorchid.png" alt="mediumorchid"></td><td>mediumorchid</td>
-<td><img src="assets/mediumpurple.png" alt="mediumpurple"></td><td>mediumpurple</td>
-<td><img src="assets/mediumseagreen.png" alt="mediumseagreen"></td><td>mediumseagreen</td>
-<td><img src="assets/mediumslateblue.png" alt="mediumslateblue"></td><td>mediumslateblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumorchid.png" alt="mediumorchid"></td><td>mediumorchid</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumpurple.png" alt="mediumpurple"></td><td>mediumpurple</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumseagreen.png" alt="mediumseagreen"></td><td>mediumseagreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumslateblue.png" alt="mediumslateblue"></td><td>mediumslateblue</td>
 </tr>
-<td><img src="assets/mediumspringgreen.png" alt="mediumspringgreen"></td><td>mediumspringgreen</td>
-<td><img src="assets/mediumturquoise.png" alt="mediumturquoise"></td><td>mediumturquoise</td>
-<td><img src="assets/mediumvioletred.png" alt="mediumvioletred"></td><td>mediumvioletred</td>
-<td><img src="assets/midnightblue.png" alt="midnightblue"></td><td>midnightblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumspringgreen.png" alt="mediumspringgreen"></td><td>mediumspringgreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumturquoise.png" alt="mediumturquoise"></td><td>mediumturquoise</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mediumvioletred.png" alt="mediumvioletred"></td><td>mediumvioletred</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/midnightblue.png" alt="midnightblue"></td><td>midnightblue</td>
 </tr>
-<td><img src="assets/mintcream.png" alt="mintcream"></td><td>mintcream</td>
-<td><img src="assets/mistyrose.png" alt="mistyrose"></td><td>mistyrose</td>
-<td><img src="assets/moccasin.png" alt="moccasin"></td><td>moccasin</td>
-<td><img src="assets/navy.png" alt="navy"></td><td>navy</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mintcream.png" alt="mintcream"></td><td>mintcream</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/mistyrose.png" alt="mistyrose"></td><td>mistyrose</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/moccasin.png" alt="moccasin"></td><td>moccasin</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/navy.png" alt="navy"></td><td>navy</td>
 </tr>
-<td><img src="assets/oldlace.png" alt="oldlace"></td><td>oldlace</td>
-<td><img src="assets/olive.png" alt="olive"></td><td>olive</td>
-<td><img src="assets/olivedrab.png" alt="olivedrab"></td><td>olivedrab</td>
-<td><img src="assets/orange.png" alt="orange"></td><td>orange</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/oldlace.png" alt="oldlace"></td><td>oldlace</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/olive.png" alt="olive"></td><td>olive</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/olivedrab.png" alt="olivedrab"></td><td>olivedrab</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/orange.png" alt="orange"></td><td>orange</td>
 </tr>
-<td><img src="assets/orangered.png" alt="orangered"></td><td>orangered</td>
-<td><img src="assets/orchid.png" alt="orchid"></td><td>orchid</td>
-<td><img src="assets/palegoldenrod.png" alt="palegoldenrod"></td><td>palegoldenrod</td>
-<td><img src="assets/palegreen.png" alt="palegreen"></td><td>palegreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/orangered.png" alt="orangered"></td><td>orangered</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/orchid.png" alt="orchid"></td><td>orchid</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/palegoldenrod.png" alt="palegoldenrod"></td><td>palegoldenrod</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/palegreen.png" alt="palegreen"></td><td>palegreen</td>
 </tr>
-<td><img src="assets/paleturquoise.png" alt="paleturquoise"></td><td>paleturquoise</td>
-<td><img src="assets/palevioletred.png" alt="palevioletred"></td><td>palevioletred</td>
-<td><img src="assets/papayawhip.png" alt="papayawhip"></td><td>papayawhip</td>
-<td><img src="assets/peachpuff.png" alt="peachpuff"></td><td>peachpuff</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/paleturquoise.png" alt="paleturquoise"></td><td>paleturquoise</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/palevioletred.png" alt="palevioletred"></td><td>palevioletred</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/papayawhip.png" alt="papayawhip"></td><td>papayawhip</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/peachpuff.png" alt="peachpuff"></td><td>peachpuff</td>
 </tr>
-<td><img src="assets/peru.png" alt="peru"></td><td>peru</td>
-<td><img src="assets/pink.png" alt="pink"></td><td>pink</td>
-<td><img src="assets/plum.png" alt="plum"></td><td>plum</td>
-<td><img src="assets/powderblue.png" alt="powderblue"></td><td>powderblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/peru.png" alt="peru"></td><td>peru</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/pink.png" alt="pink"></td><td>pink</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/plum.png" alt="plum"></td><td>plum</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/powderblue.png" alt="powderblue"></td><td>powderblue</td>
 </tr>
-<td><img src="assets/purple.png" alt="purple"></td><td>purple</td>
-<td><img src="assets/rebeccapurple.png" alt="rebeccapurple"></td><td>rebeccapurple</td>
-<td><img src="assets/red.png" alt="red"></td><td>red</td>
-<td><img src="assets/rosybrown.png" alt="rosybrown"></td><td>rosybrown</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/purple.png" alt="purple"></td><td>purple</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/rebeccapurple.png" alt="rebeccapurple"></td><td>rebeccapurple</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/red.png" alt="red"></td><td>red</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/rosybrown.png" alt="rosybrown"></td><td>rosybrown</td>
 </tr>
-<td><img src="assets/royalblue.png" alt="royalblue"></td><td>royalblue</td>
-<td><img src="assets/saddlebrown.png" alt="saddlebrown"></td><td>saddlebrown</td>
-<td><img src="assets/salmon.png" alt="salmon"></td><td>salmon</td>
-<td><img src="assets/sandybrown.png" alt="sandybrown"></td><td>sandybrown</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/royalblue.png" alt="royalblue"></td><td>royalblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/saddlebrown.png" alt="saddlebrown"></td><td>saddlebrown</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/salmon.png" alt="salmon"></td><td>salmon</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/sandybrown.png" alt="sandybrown"></td><td>sandybrown</td>
 </tr>
-<td><img src="assets/seagreen.png" alt="seagreen"></td><td>seagreen</td>
-<td><img src="assets/seashell.png" alt="seashell"></td><td>seashell</td>
-<td><img src="assets/sienna.png" alt="sienna"></td><td>sienna</td>
-<td><img src="assets/silver.png" alt="silver"></td><td>silver</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/seagreen.png" alt="seagreen"></td><td>seagreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/seashell.png" alt="seashell"></td><td>seashell</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/sienna.png" alt="sienna"></td><td>sienna</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/silver.png" alt="silver"></td><td>silver</td>
 </tr>
-<td><img src="assets/skyblue.png" alt="skyblue"></td><td>skyblue</td>
-<td><img src="assets/slateblue.png" alt="slateblue"></td><td>slateblue</td>
-<td><img src="assets/slategray.png" alt="slategray"></td><td>slategray</td>
-<td><img src="assets/slategrey.png" alt="slategrey"></td><td>slategrey</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/skyblue.png" alt="skyblue"></td><td>skyblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/slateblue.png" alt="slateblue"></td><td>slateblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/slategray.png" alt="slategray"></td><td>slategray</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/slategrey.png" alt="slategrey"></td><td>slategrey</td>
 </tr>
-<td><img src="assets/snow.png" alt="snow"></td><td>snow</td>
-<td><img src="assets/springgreen.png" alt="springgreen"></td><td>springgreen</td>
-<td><img src="assets/steelblue.png" alt="steelblue"></td><td>steelblue</td>
-<td><img src="assets/tan.png" alt="tan"></td><td>tan</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/snow.png" alt="snow"></td><td>snow</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/springgreen.png" alt="springgreen"></td><td>springgreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/steelblue.png" alt="steelblue"></td><td>steelblue</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/tan.png" alt="tan"></td><td>tan</td>
 </tr>
-<td><img src="assets/teal.png" alt="teal"></td><td>teal</td>
-<td><img src="assets/thistle.png" alt="thistle"></td><td>thistle</td>
-<td><img src="assets/tomato.png" alt="tomato"></td><td>tomato</td>
-<td><img src="assets/turquoise.png" alt="turquoise"></td><td>turquoise</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/teal.png" alt="teal"></td><td>teal</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/thistle.png" alt="thistle"></td><td>thistle</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/tomato.png" alt="tomato"></td><td>tomato</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/turquoise.png" alt="turquoise"></td><td>turquoise</td>
 </tr>
-<td><img src="assets/violet.png" alt="violet"></td><td>violet</td>
-<td><img src="assets/wheat.png" alt="wheat"></td><td>wheat</td>
-<td><img src="assets/white.png" alt="white"></td><td>white</td>
-<td><img src="assets/whitesmoke.png" alt="whitesmoke"></td><td>whitesmoke</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/violet.png" alt="violet"></td><td>violet</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/wheat.png" alt="wheat"></td><td>wheat</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/white.png" alt="white"></td><td>white</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/whitesmoke.png" alt="whitesmoke"></td><td>whitesmoke</td>
 </tr>
-<td><img src="assets/yellow.png" alt="yellow"></td><td>yellow</td>
-<td><img src="assets/yellowgreen.png" alt="yellowgreen"></td><td>yellowgreen</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/yellow.png" alt="yellow"></td><td>yellow</td>
+<td><img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/yellowgreen.png" alt="yellowgreen"></td><td>yellowgreen</td>
 </table>
 </tbody>
 
@@ -282,7 +282,7 @@ print_formatted("This text is bold, underlined, red with yellow background and i
 )
 ```
 <p align="left">
-  <img src="assets/colorprinter_usage_output.png" alt="console output" width="800"/>
+  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/colorprinter_usage_output.png" alt="console output" width="800"/>
 </p>
 
 ---
@@ -292,7 +292,7 @@ print_formatted("This text is bold, underlined, red with yellow background and i
 python printpop.py
 
 <p align="left">
-  <img src="assets/color_samples.png" alt="console output" width="800"/>
+  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/color_samples.png" alt="console output" width="800"/>
 </p>
 
 ---
