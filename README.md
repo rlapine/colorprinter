@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/print_pop_logo_2.png" alt="PrintPop logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/print_pop_logo.png" alt="PrintPop logo" width="400"/>
 </p>
 
 ---
