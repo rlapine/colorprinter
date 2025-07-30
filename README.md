@@ -59,16 +59,7 @@ Designed to work across platforms (Windows, macOS, Linux), and built for develop
 - `print_strikethrough(text_to_print: str)`: Prints strikethrough. 
 - `print_rgb(text_to_print: str, r: int, g: int, b: int)`: Prints text in rgb color. 
 - `print_color(text_to_print: str, color: str, background: bool)`: Prints background in color if backround is True.
-- ```print_formatted(text_to_print: str, bold: bool,
-    dim: bool,
-    italic: bool,
-    underline: bool,
-    blink: bool,
-    inverse: bool,
-    hidden: bool,
-    strikethrough: bool,
-    color: str,
-    back_color: str)```: Prints with formats and colors.
+- `print_formatted(text_to_print: str, bold: bool, ...`: Prints with formats and colors.
 
 ---
 
