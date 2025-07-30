@@ -10,6 +10,13 @@ Styled console printing made simple — color, format, and clarity in one packag
 
 ---
 
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/rlapine/printpop?style=social)](https://github.com/rlapine/printpop/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/rlapine/printpop?style=social)](https://github.com/rlapine/printpop/network/members)
+
+---
+
 ## ✨ Overview
 
 PrintPop is a lightweight Python utility for printing beautifully formatted text in the console. Use named HTML-safe colors, custom RGB values, and popular text styles to make CLI output clearer and more expressive.
@@ -39,7 +46,92 @@ pip install printpop
 
 ---
 
+## ✍️ API Overview
+
+- `print_<color>(text_to_print: str)`: print functions for over 140 HTML safe named colors.  
+- `print_bold(text_to_print: str)`: Prints bold.  
+- `print_dim(text_to_print: str)`: Prints dim. 
+- `print_italic(text_to_print: str)`: Prints italic. 
+- `print_underline(text_to_print: str)`: Prints underline.   
+- `print_blink(text_to_print: str)`: Prints blink.   
+- `print_inverse(text_to_print: str)`: Prints inverse. 
+- `print_hidden(text_to_print: str)`: Prints hidden. 
+- `print_strikethrough(text_to_print: str)`: Prints strikethrough. 
+- `print_rgb(text_to_print: str, r: int, g: int, b: int)`: Prints text in rgb color. 
+- `print_color(text_to_print: str, color: str, background: bool)`: Prints background in color if backround is True.
+- `print_formatted(text_to_print: str, bold: bool,
+    dim: bool,
+    italic: bool,
+    underline: bool,
+    blink: bool,
+    inverse: bool,
+    hidden: bool,
+    strikethrough: bool,
+    color: str,
+    back_color: str)`: Prints with formats and colors.
+
+---
+
+## 🔧 Usage Examples
+
+```
+import printpop
+
+# Emphasize with bold
+print_bold("This text is bold.")
+
+# Custom RGB
+print_rgb("This text is soft purple", r=150, g=120, b=180)
+
+# Combine styles
+print_formatted("This text is bold, italic, salmon colored with lightcoral background", bold=True, italic=True, color="salmon", back_color="lightcoral")
+
+# Print color name
+print_red("This text is red")
+
+# Use named HTML-safe foreground/background colors
+print_color("This text is fuchsia", color = "fuchsia" )
+
+# Use any rgb color
+print_rgb("This text is one of 16,777,216 possible colors", r = 101, g = 201, b = 113)
+
+# Use any rgb color for background
+print_rgb("This text has one of 16,777,216 possible background colors", r = 37, g = 249, b = 201, background = True)
+
+# Combine multiple text styles and colors
+print_formatted("This text is bold, underlined, red with yellow background and it is blinking.",
+    bold=True,
+    dim=False,
+    italic=False,
+    underline=True,
+    blink=True,
+    inverse=False,
+    hidden=False,
+    strikethrough=False,
+    color="red",
+    back_color="yellow"
+)
+```
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/colorprinter_usage_output.png" alt="console output" width="800"/>
+</p>
+
+---
+
 ## 🌈 Supported Colors
+
+printpop includes wrapper functions for over 140 HTML name safe colors
+
+```
+print_red()
+print_blue()
+print_green()
+print_aliceblue()
+print_antiquewhite()
+print_aqua()
+print_aquamarine()
+...
+```
 
 <table>
 <tbody>
@@ -227,63 +319,19 @@ pip install printpop
 ---
 
 ## 🔤 Supported Formats
-```
+
 printpop includes wrapper functions for ANSI formats:
-| Format Function       |
-| print_bold()          |
-| print_dim()           |
-| print_italic()        |
-| print_underline()     |
-| print_blink()         |
-| print_inverse()       |
-| print_hidden()        |
-| print_strikethrough() |
-```
----
-
-## 🔧 Usage Examples
 
 ```
-import printpop
-
-# Emphasize with bold
-print_bold("This text is bold.")
-
-# Custom RGB
-print_rgb("This text is soft purple", r=150, g=120, b=180)
-
-# Combine styles
-print_formatted("This text is bold, italic, salmon colored with lightcoral background", bold=True, italic=True, color="salmon", back_color="lightcoral")
-
-# Print color name
-print_red("This text is red")
-
-# Use named HTML-safe foreground/background colors
-print_color("This text is fuchsia", color = "fuchsia" )
-
-# Use any rgb color
-print_rgb("This text is one of 16,777,216 possible colors", r = 101, g = 201, b = 113)
-
-# Use any rgb color for background
-print_rgb("This text has one of 16,777,216 possible background colors", r = 37, g = 249, b = 201, background = True)
-
-# Combine multiple text styles and colors
-print_formatted("This text is bold, underlined, red with yellow background and it is blinking.",
-    bold=True,
-    dim=False,
-    italic=False,
-    underline=True,
-    blink=True,
-    inverse=False,
-    hidden=False,
-    strikethrough=False,
-    color="red",
-    back_color="yellow"
-)
+print_bold()
+print_dim()
+print_italic()
+print_underline()
+print_blink()
+print_inverse()
+print_hidden()
+print_strikethrough()
 ```
-<p align="left">
-  <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/colorprinter_usage_output.png" alt="console output" width="800"/>
-</p>
 
 ---
 
