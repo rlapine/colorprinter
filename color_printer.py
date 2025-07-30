@@ -10,8 +10,8 @@ ColorPrinter Class:
     - Combinations of colors and styles via print_formatted()
 
 Author: Ryan LaPine
-Date:   2025-07-29
-Version:0.1.2
+Date:   2025-07-30
+Version:0.1.4
 """
 
 from typing import Any, List, Optional, TextIO
