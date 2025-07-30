@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/print_pop_logo.png" alt="PrintPop logo" width="400"/>
+  <img src="assets/print_pop_transparent_logo.png" alt="PrintPop logo" width="400"/>
 </p>
 
 ---
 
-## 🎨 ColorPrinter
+## 🎨 PrintPop
 
 Styled console printing made simple — color, format, and clarity in one package.
 
@@ -228,7 +228,7 @@ pip install printpop
 
 ## 🔤 Supported Formats
 ```
-colorprinter includes wrapper functions for ANSI formats:
+printpop includes wrapper functions for ANSI formats:
 | Format Function       |
 | print_bold()          |
 | print_dim()           |
@@ -289,7 +289,7 @@ print_formatted("This text is bold, underlined, red with yellow background and i
 
 ## 🔧 Built-in demo:
 
-python colorprinter.py
+python printpop.py
 
 <p align="left">
   <img src="assets/color_samples.png" alt="console output" width="800"/>
