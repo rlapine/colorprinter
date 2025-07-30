@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/colorprinter_logo_2.png" alt="colorprinter logo" width="400"/>
+  <img src="assets/print_pop_logo.png" alt="PrintPop logo" width="400"/>
 </p>
 
 ---
@@ -12,7 +12,7 @@ Styled console printing made simple — color, format, and clarity in one packag
 
 ## ✨ Overview
 
-colorprinter is a lightweight Python utility for printing beautifully formatted text in the console. Use named HTML-safe colors, custom RGB values, and popular text styles to make CLI output clearer and more expressive.
+PrintPop is a lightweight Python utility for printing beautifully formatted text in the console. Use named HTML-safe colors, custom RGB values, and popular text styles to make CLI output clearer and more expressive.
 
 Designed to work across platforms (Windows, macOS, Linux), and built for developers, educators, and CLI power users.
 
@@ -20,7 +20,7 @@ Designed to work across platforms (Windows, macOS, Linux), and built for develop
 
 ## 📦 Installation
 
-pip install colorprinter
+pip install printpop
 
 ---
 
@@ -244,7 +244,7 @@ colorprinter includes wrapper functions for ANSI formats:
 ## 🔧 Usage Examples
 
 ```
-import colorprinter
+import printpop
 
 # Emphasize with bold
 print_bold("This text is bold.")
@@ -292,20 +292,19 @@ print_formatted("This text is bold, underlined, red with yellow background and i
 python colorprinter.py
 
 <p align="left">
-  <img src="assets/colorprinter_console_output.png" alt="console output" width="800"/>
+  <img src="assets/color_samples.png" alt="console output" width="800"/>
 </p>
 
 ---
 
 ## 📁 Package Structure
 ```
-colorprinter/
-├── colorprinter.py        # Public-facing wrappers
+printpop/
+├── printpop.py        # Public-facing wrappers
 ├── color_printer.py       # Core ANSI logic
-├── console_test.py        # Interactive CLI demo
 ├── __init__.py            # Package init
 ├── assets/                # Folder for images, badges, or other static assets
-│   ├── colorprinter_logo.png           # Logo for documentation
+│   ├── print_pop_logo.png           # Logo for documentation
 │   ├── colorprinter_usage_output.png   # Console output 
 │   ├── color_samples.png               # Console output
 |   └── <color>.png                     # HTML safe name color samples

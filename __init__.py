@@ -1,7 +1,7 @@
-# colorprinter/__init__.py
+# printpop/__init__.py
 
 """
-ColorPrinter Package
+PrintPop Package
 
 Styled console printing made simple — color, format, and clarity in one package.
 """

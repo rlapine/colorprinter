@@ -1,7 +1,7 @@
 """
 color_printer.py
 
-ColorPrinter:
+ColorPrinter Class:
     Uses ANSI escape codes to print colored and formatted text in the terminal.
     Supports:
     - Predefined named colors (HTML-safe)

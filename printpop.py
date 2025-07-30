@@ -1365,7 +1365,7 @@ def main():
     """Runs the console interface loop for demonstrating ColorPrinter functionality."""
     print()
 
-    print_bold("ColorPrinter - Prints to Console with Color and Formatting")
+    print_bold("PrintPop - Prints to Console with Color and Formatting")
 
     user_continue = True
     while user_continue:
