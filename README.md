@@ -4,7 +4,7 @@
 
 ---
 
-## 🎨 PrintPop V 0.1.4
+## 🎨 PrintPop V 0.1.5
 
 Styled console printing made simple — color, format, and clarity in one package.
 
