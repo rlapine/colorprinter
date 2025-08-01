@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: printpop
+Version: 0.1.8
+Summary: Styled console printing made simple — color, format, and clarity in one package.
+Home-page: https://github.com/rlapine/PrintPop
+Author: Ryan LaPine
+Author-email: github.stunt845@passinbox.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/print_pop_logo.png" alt="PrintPop logo" width="400"/>
 </p>
@@ -66,7 +85,7 @@ Designed to work across platforms (Windows, macOS, Linux), and built for develop
 ## 🔧 Usage Examples
 
 ```
-from printpop import print_bold, print_rgb, print_formatted, print_red, print_color
+import printpop
 
 # Emphasize with bold
 print_bold("This text is bold.")
@@ -336,10 +355,9 @@ print_strikethrough()
 ## 📁 Package Structure
 ```
 printpop/
-├── printpop/              # Folder for images, badges, or other static assets
-│   ├── core.py            # Public functions and console test
-│   ├── color_printer.py   # Core ANSI logic
-│   ├── __init__.py        # Package init
+├── printpop.py        # Public-facing wrappers
+├── color_printer.py       # Core ANSI logic
+├── __init__.py            # Package init
 ├── assets/                # Folder for images, badges, or other static assets
 │   ├── print_pop_logo.png           # Logo for documentation
 │   ├── colorprinter_usage_output.png   # Console output 

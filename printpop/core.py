@@ -1,5 +1,5 @@
 """
-printpop.py
+core.py
 
 Public-facing functions for printing styled text using the ColorPrinter class.
 Supports ANSI formatting for text adornments, foreground/background color names, and RGB values.
@@ -15,11 +15,11 @@ Use individual print_* functions for simple formatting, or print_formatted() for
 Create reusable, styled print calls for terminal output, logs, or CLI utilities.
 
 Author: Ryan LaPine  
-Version: 0.1.6  
+Version: 0.1.8  
 Date: 2025-07-30
 """
 
-from color_printer import ColorPrinter
+from .color_printer import ColorPrinter
 
 #only show rgf of factor 51 so not to show millions of results
 DEFAULT_RGB_FACTOR = 51
