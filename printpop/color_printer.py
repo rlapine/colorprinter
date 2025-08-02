@@ -11,7 +11,7 @@ ColorPrinter Class:
 
 Author: Ryan LaPine
 Date:   2025-07-30
-Version:0.1.8
+Version:0.1.9
 """
 
 from typing import Any, List, Optional, TextIO
