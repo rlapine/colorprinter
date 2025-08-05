@@ -8,10 +8,11 @@ ColorPrinter Class:
     - Custom RGB colors via print_rgb()
     - Common text styles: bold, dim, italic, underline, blink, inverse, hidden, strikethrough
     - Combinations of colors and styles via print_formatted()
+    - Formatted, clickable hyperlink
 
 Author: Ryan LaPine
 Date:   2025-07-30
-Version:0.2.1
+Version:0.2.2
 """
 
 from typing import Any, List, Optional, TextIO
@@ -24,6 +25,7 @@ class ColorPrinter:
     ANSI_BASE = "\x1b[{code}m"
     RGB_FOREGROUND = "\x1b[38;2;{r};{g};{b}m"
     RGB_BACKGROUND = "\x1b[48;2;{r};{g};{b}m"
+    HYPERLINK = "\x1B]8;;{hyperlink}\x1B\\{text}\x1B]8;;\x1B\\"
 
     # Prefix to mark background-color formats
     BACK_TAG = "back_"
@@ -547,3 +549,62 @@ class ColorPrinter:
         self.print_rgb(*objects, sep=sep, end=end, file=file, flush=flush,
                        reset=reset, r=rgb[0], g=rgb[1], b=rgb[2],
                        background=background)
+        
+    def print_hyperlink(self,
+                    text: str = '',
+                    hyperlink: str = '',
+                    sep: str = " ",
+                    end: str = "\n",
+                    file: Optional[TextIO] = None,
+                    flush: bool = False,
+                    bold: bool = False,
+                    dim: bool = False,
+                    italic: bool = False,
+                    underline: bool = True,
+                    blink: bool = False,
+                    inverse: bool = False,
+                    hidden: bool = False,
+                    strikethrough: bool = False,
+                    color: str = "",
+                    back_color: str = "",
+                    reset = True) -> None:
+        """Print hyperlink
+
+        Args:
+            *objects (Any): clickable text to display.
+            hyperlink (str): link location
+            sep (str): Separator between objects.
+            end (str): Line ending.
+            file (TextIO, optional): Output file-like object.
+            flush (bool): Whether to flush the output buffer.
+            bold (bool): Apply bold style.
+            dim (bool): Apply dim style.
+            italic (bool): Apply italic style.
+            underline (bool): Apply underline style.
+            blink (bool): Apply blink style.
+            inverse (bool): Apply inverse style.
+            hidden (bool): Apply hidden style.
+            strikethrough (bool): Apply strikethrough style.
+            color (str): Named foreground color.
+            back_color (str): Named background color.
+        """
+        # add hyperlink 
+        ansi_hyperlink = self.HYPERLINK.format(hyperlink=hyperlink, text=text)
+        self.print_formatted(ansi_hyperlink,
+                            sep = sep,
+                            end = end,
+                            file = file,
+                            flush = flush,
+                            bold = bold,
+                            dim = dim,
+                            italic = italic,
+                            underline = underline,
+                            blink = blink,
+                            inverse = inverse,
+                            hidden = hidden,
+                            strikethrough = strikethrough,
+                            color = color,
+                            back_color = back_color,
+                            reset = reset
+                            )
+        

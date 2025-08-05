@@ -7,7 +7,7 @@ packages = ["printpop"]
 
 [project]
 name = "printpop"
-version = "0.2.1"
+version = "0.2.2"
 dependencies = []
 
 requires-python = ">=3.8"
@@ -17,11 +17,11 @@ authors = [
 maintainers = [
   {name = "Ryan LaPine", email = "github.stunt845@passinbox.com"}
 ]
-description = "Styled console printing made simple — color, format, and clarity in one package."
+description = "Styled console printing made simple — color, format, and clickable hyperlinks in one package."
 readme = "README.md"
 license = { text = "MIT" }
 license-files = ["LICENCSE.*"]
-keywords = ["console", "printing", "color", "formatting", "CLI", "logging"]
+keywords = ["console", "printing", "color", "formatting", "CLI", "logging", "hyperlink"]
 classifiers = [
   "Programming Language :: Python :: 3",
   "License :: OSI Approved :: MIT License",

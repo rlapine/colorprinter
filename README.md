@@ -4,9 +4,9 @@
 
 ---
 
-## 🎨 PrintPop V 0.2.1
+## 🎨 PrintPop V 0.2.2
 
-Styled console printing made simple — color, format, and clarity in one package.
+Styled console printing made simple — color, format, and clickable hyperlinks in one package.
 
 ---
 
@@ -19,7 +19,7 @@ Styled console printing made simple — color, format, and clarity in one packag
 
 ## ✨ Overview
 
-PrintPop is a lightweight Python utility for printing beautifully formatted text in the console. Use named HTML-safe colors, custom RGB values, and popular text styles to make CLI output clearer and more expressive.
+PrintPop is a lightweight Python utility for printing beautifully formatted text and hyperlinks in the console. Use named HTML-safe colors, custom RGB values, and popular text styles to make CLI output clearer and more expressive.
 
 Designed to work across platforms (Windows, macOS, Linux), and built for developers, educators, and CLI power users.
 
@@ -39,6 +39,7 @@ Designed to work across platforms (Windows, macOS, Linux), and built for develop
 - ✅ Custom RGB Styling: Define any RGB values for precise color output—ideal for branding or design-themed CLI tools.
 - ✅ Text Style Formatting: Combine bold, italic, underline, and more for expressive output.
 - ✅ Background Colors: Control the background with both named and RGB values for contrast-rich displays.
+- ✅ Hyperlink printing in color and format. 
 - ✅ Cross-Platform ANSI Support: Works reliably on Windows, macOS, and Linux terminals using ANSI escape codes.
 - ✅ Convenient Wrapper Functions: print_bold(), print_rgb(), print_formatted()—no need to remember styling syntax.
 - ✅ Interactive CLI Demo: Run console_test.py to preview styles, test terminal capabilities, or explore colors hands-on.
@@ -60,13 +61,14 @@ Designed to work across platforms (Windows, macOS, Linux), and built for develop
 - `print_rgb(text_to_print: str, r: int, g: int, b: int)`: Prints text in rgb color. 
 - `print_color(text_to_print: str, color: str, background: bool)`: Prints background in color if backround is True.
 - `print_formatted(text_to_print: str, bold: bool, ...`: Prints with formats and colors.
+- `print_hyperlink(text: str, hyperlink: str, color: str ...`: Prints clickable hyperlink with formats and colors.
 
 ---
 
 ## 🔧 Usage Examples
 
 ```
-from printpop import print_bold, print_rgb, print_formatted, print_red, print_color
+from printpop import print_bold, print_rgb, print_formatted, print_red, print_color, print_hyperlink
 
 # Emphasize with bold
 print_bold("This text is bold.")
@@ -102,6 +104,9 @@ print_formatted("This text is bold, underlined, red with yellow background and i
     color="red",
     back_color="yellow"
 )
+
+# Print clickable hyperlink
+print_hyperlink(text="This is a blue, clickable hyperlink", hyperlink="https://github.com/rlapine", color="blue")
 ```
 <p align="left">
   <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/colorprinter_usage_output.png" alt="console output" width="800"/>

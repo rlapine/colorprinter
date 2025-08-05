@@ -9,13 +9,14 @@ Features:
 - Arbitrary RGB values via print_rgb().
 - Text adornments such as: bold, dim, italic, underline, blink, inverse, strikethrough.
 - Combined styling using print_formatted().
+- Formatted hyperlink using print_hyperlink().
 
 Usage:
-Use individual print_* functions for simple formatting, or print_formatted() for multiple styles.
+Use individual print_* functions for simple formatting, print_formatted() for multiple styles, or print_hyperlink() for clickable hyperlinks.
 Create reusable, styled print calls for terminal output, logs, or CLI utilities.
 
 Author: Ryan LaPine  
-Version: 0.2.1  
+Version: 0.2.2  
 Date: 2025-07-30
 """
 
@@ -48,6 +49,7 @@ Supports:
 - strikethrough
 - color (text color)
 - back_color (background color)
+- hyperlink
 """
 
 def print_formatted(
@@ -110,6 +112,69 @@ def print_formatted(
         back_color=back_color
     )
 
+def print_hyperlink(
+                    text: str = '',
+                    hyperlink: str = '',
+                    sep=' ',
+                    end='\n',
+                    file=None,
+                    flush=False,
+                    bold=False,
+                    dim=False,
+                    italic=False,
+                    underline=True,
+                    blink=False,
+                    inverse=False,
+                    hidden=False,
+                    strikethrough=False,
+                    color="",
+                    back_color=""
+                ) -> None:
+    """Prints clickable hyperlink to console
+
+    Supports combinations of text formatting styles, foreground and background colors.
+
+    Args:
+        text (str) = Text for link.
+        hyperlink (str) = Hyperlink destination.
+        sep (str): Separator between items.
+        end (str): End character.
+        file (IO, optional): Output stream (defaults to sys.stdout).
+        flush (bool): Whether to flush the output buffer.
+        bold (bool): If True, applies bold formatting.
+        dim (bool): If True, applies dim formatting.
+        italic (bool): If True, applies italic formatting.
+        underline (bool): If True, underlines text.
+        blink (bool): If True, enables blinking text.
+        inverse (bool): If True, reverses foreground/background colors.
+        hidden (bool): If True, hides the text.
+        strikethrough (bool): If True, applies strike-through.
+        color (str): Foreground color name (HTML-safe).
+        back_color (str): Background color name (HTML-safe).
+
+    Returns:
+        None
+    """
+    printer = _check_printer_obj()
+    return printer.print_hyperlink(
+                                text=text,
+                                hyperlink=hyperlink,
+                                sep=sep,
+                                end=end,
+                                file=file,
+                                flush=flush,
+                                bold=bold,
+                                dim=dim,
+                                italic=italic,
+                                underline=underline,
+                                blink=blink,
+                                strikethrough=strikethrough,
+                                inverse=inverse,
+                                hidden=hidden,
+                                color=color,
+                                back_color=back_color
+                                )
+    
 #individual format print functions
 def print_bold(*objects, sep=' ', end='\n', file=None, flush=False, reset=True):
     _color_printer = _check_printer_obj()
