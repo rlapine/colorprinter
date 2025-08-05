@@ -2,7 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name="printpop",
-    version="0.1.9",
-    packages=find_packages(),  # This auto-discovers the 'printpop' folder
-    include_package_data=True,
+    version="0.2.0",
+    packages=find_packages(),  # Auto-discovers the 'printpop' folder
+    entry_points={
+        "console_scripts": [
+            "printpop = printpop.core:main",
+        ]
+    },
+    include_package_data=True
 )

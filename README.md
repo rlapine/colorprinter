@@ -4,7 +4,7 @@
 
 ---
 
-## 🎨 PrintPop V 0.1.9
+## 🎨 PrintPop V 0.2.0
 
 Styled console printing made simple — color, format, and clarity in one package.
 
@@ -325,7 +325,7 @@ print_strikethrough()
 
 ## 🔧 Built-in demo:
 
-`python printpop.py`
+`python printpop`
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/rlapine/printpop/refs/heads/main/assets/color_samples.png" alt="console output" width="800"/>
@@ -344,7 +344,10 @@ printpop/
 │   ├── print_pop_logo.png           # Logo for documentation
 │   ├── colorprinter_usage_output.png   # Console output 
 │   ├── color_samples.png               # Console output
-|   └── <color>.png                     # HTML safe name color samples
+|   ├── <color>.png                     # HTML safe name color samples
+├── pyproject.toml
+├── setup.cfg
+├── setup.py
 └── README.md              # Documentation
 ```
 
