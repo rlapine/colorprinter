@@ -15,7 +15,7 @@ Use individual print_* functions for simple formatting, or print_formatted() for
 Create reusable, styled print calls for terminal output, logs, or CLI utilities.
 
 Author: Ryan LaPine  
-Version: 0.2.0  
+Version: 0.2.1  
 Date: 2025-07-30
 """
 
